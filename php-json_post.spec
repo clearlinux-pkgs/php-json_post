@@ -4,7 +4,7 @@
 #
 Name     : php-json_post
 Version  : 1.0.2
-Release  : 8
+Release  : 9
 URL      : https://pecl.php.net/get/json_post-1.0.2.tgz
 Source0  : https://pecl.php.net/get/json_post-1.0.2.tgz
 Summary  : No detailed summary available
